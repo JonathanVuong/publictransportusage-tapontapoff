@@ -1,5 +1,4 @@
-# publictransportusage-tapontapoff
-Data Analysis: The Usage of Various Transports within NSW, and The Relationship between Tap-on and Tap-off of Opal Cards
+# Data Analysis: The Usage of Various Transports within NSW and The Relationship between Tap-on and Tap-off of Opal Cards
 
 •	Group Members: Hai Hoang Nguyen, Dong Ha Nguyen Luu, Xuyen Linh Huynh, Xuan Dung Vuong
 
